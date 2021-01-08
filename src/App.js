@@ -18,7 +18,6 @@ function App() {
       setError(true);
       console.log(e);
     }
-    
   }
 
   return (
